@@ -1,0 +1,22 @@
+{
+  "name": "myprofiler",
+  "version": "1.0.0",
+  "description": "Profiler with sample application",
+  "main": "index.js",
+  "dependencies": {
+    "dateformat": "^2.0.0",
+    "express": "^4.14.0",
+    "moment": "^2.26.0",
+    "mysql": "^2.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "profiler",
+    "performence"
+  ],
+  "author": "",
+  "license": "ISC"
+}
